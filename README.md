@@ -1,4 +1,4 @@
-# Pav Paradise – Independence Day Landing Page
+# Pav Paradise – India Day 2025 Landing Page
 
 A minimal, bilingual (EN/FI) static site for Pav Paradise.
 
